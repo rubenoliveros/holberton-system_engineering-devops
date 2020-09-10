@@ -1,4 +1,19 @@
-0-current_working_directory  13-symbolic_link  17-tree          3-listfiles           7-movethatfile
-10-back                      14-copy_html      18-commas        4-listmorefiles       8-firstdelete
-11-lists                     15-lets_move      1-listit         5-listfilesdigitonly  9-firstdirdeletion
-12-file_type                 16-clean_emacs    2-bring_me_home  6-firstdirectory
+  2 0-current_working_directory
+  2 1-listit
+  2 2-bring_me_home
+  2 3-listfiles
+  2 4-listmorefiles
+  2 5-listfilesdigitonly
+  2 6-firstdirectory
+  2 7-movethatfile
+  2 8-firstdelete
+  2 9-firstdirdeletion
+  2 10-back
+  0 11-lists
+  0 12-file_type
+  0 13-symbolic_link
+  0 14-copy_html
+  0 15-lets_move
+  0 16-clean_emacs
+  0 17-tree
+  0 18-commas
