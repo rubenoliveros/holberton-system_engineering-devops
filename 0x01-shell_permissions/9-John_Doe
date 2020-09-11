@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod u+rwx,g+rx,o+wx hello
+sudo chmod 753 hello
