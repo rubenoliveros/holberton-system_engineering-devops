@@ -8,4 +8,4 @@
 #You do not need to handle the case of a private key protected by a passphrase
 #The switch -i is used to enforce the use of a ssh key
 
-ssh -i ~/.ssh/holberton ubuntu@34.73.136.134
+ssh -i ~/.ssh/holberton ubuntu@34.74.219.148
